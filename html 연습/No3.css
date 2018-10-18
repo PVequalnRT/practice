@@ -1,0 +1,25 @@
+header{
+	margin:0;
+	border:0;
+	padding:0;
+	width:100%;
+	background-color:yellow;}
+nav {
+	margin:0;
+	width:20%;
+	float:left;
+	background-color:orange;}
+section{
+	margin:0;
+	width:80%;
+	float:right;
+	background-color:skyblue;}
+footer{
+	margin:0;
+	background-color:hotpink;
+text-align:middle;
+width:100%;}
+form{
+	margin:0;
+	background-color:pink;
+width:100%;}
